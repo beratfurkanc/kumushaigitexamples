@@ -4,8 +4,8 @@ public class Car {
     public static void main(String[] args) {
 
 
-        int a=5;
-        System.out.println("inumbersss");
+        System.out.println("doubless");
+        System.out.println("stringss");
 
     }
 }
