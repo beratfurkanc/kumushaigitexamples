@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ee45ab-3177-4a11-a824-04fc2e6d38dd" name="Default Changelist" comment="" />
+    <list default="true" id="75ee45ab-3177-4a11-a824-04fc2e6d38dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/berat/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/berat/Car.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,20 +22,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/berat/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/berat/Tesla.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
@@ -61,8 +59,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/berat/Car.java" />
         <option value="$PROJECT_DIR$/src/com/berat/Tesla.java" />
+        <option value="$PROJECT_DIR$/src/com/berat/Car.java" />
       </list>
     </option>
   </component>
@@ -182,12 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/berat/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
