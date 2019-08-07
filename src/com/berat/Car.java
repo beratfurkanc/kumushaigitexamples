@@ -7,6 +7,9 @@ public class Car {
         System.out.println("different things");
 
         System.out.println("I like carsssssssssssssssssssssssssssssss");
+        
+        
+        kumushai
 
 
         System.out.println("kumushai");
