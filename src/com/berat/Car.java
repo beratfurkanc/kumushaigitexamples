@@ -4,8 +4,13 @@ public class Car {
     public static void main(String[] args) {
 
 
+
         System.out.println("doubless");
-        System.out.println("stringss");
+
+
+        boolean check=true;
+        System.out.println("kumushai");
+
 
     }
 }
