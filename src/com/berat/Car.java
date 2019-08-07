@@ -8,5 +8,8 @@ public class Car {
 
         System.out.println("I like carsssssssssssssssssssssssssssssss");
 
+
+        System.out.println("kumushai");
+
     }
 }
